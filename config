@@ -5,8 +5,9 @@
   <ServerIp>85.131.221.137</ServerIp>
   <Mods>
     <Mod>
-      <Name>task force radio (Arma 3)</Name>
-      <Version>1</Version>
+      <Name>TFR (Arma 3)</Name>
+      <Version>3</Version>
+      <ZipUrl>https://www.dropbox.com/s/28fwjg15pcef7ap/TFR_A3.zip?dl=1</ZipUrl>
       <Extract_code>A3</Extract_code>
     </Mod>
   </Mods>
