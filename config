@@ -6,8 +6,14 @@
   <Mods>
     <Mod>
       <Name>TFR (Arma 3)</Name>
-      <Version>3</Version>
+      <Version>1</Version>
       <ZipUrl>https://www.dropbox.com/s/28fwjg15pcef7ap/TFR_A3.zip?dl=1</ZipUrl>
+      <Extract_code>A3</Extract_code>
+    </Mod>
+    <Mod>
+      <Name>TFR (TeamSpeak 3)</Name>
+      <Version>1</Version>
+      <ZipUrl>https://github.com/Orkad/Launcher/blob/master/TFR_TS3.zip?raw=true</ZipUrl>
       <Extract_code>A3</Extract_code>
     </Mod>
   </Mods>
